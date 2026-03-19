@@ -1,19 +1,22 @@
 [submodule "geo-finder-api"]
 	path = geo-finder-api
-	url = git@github.com:luisforni/geo-finder-api.git
+	url = https://github.com/luisforni/geo-finder-api.git
 
 [submodule "geo-finder-ui"]
 	path = geo-finder-ui
-	url = git@github.com:luisforni/geo-finder-ui.git
+	url = https://github.com/luisforni/geo-finder-ui.git
 
 [submodule "whatsapp-gateway"]
 	path = whatsapp-gateway
-	url = git@github.com:luisforni/whatsapp-gateway.git
+	url = https://github.com/luisforni/whatsapp-gateway.git
 
 [submodule "campaign-api"]
 	path = campaign-api
-	url = git@github.com:luisforni/campaign-api.git
+	url = https://github.com/luisforni/campaign-api.git
 
 [submodule "ai-service"]
 	path = ai-service
-	url = git@github.com:luisforni/ai-service.git
+	url = https://github.com/luisforni/ai-service.git
+[submodule "source-control-sample"]
+	path = source-control-sample
+	url = https://github.com/luisforni/source-control-sample.git
