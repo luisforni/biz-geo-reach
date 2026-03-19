@@ -1,0 +1,46 @@
+[
+  {
+    "key": "amenity",
+    "label": "Servicios",
+    "values": [
+      "restaurant", "cafe", "bar", "fast_food", "pub",
+      "bank", "pharmacy", "hospital", "clinic", "doctors",
+      "school", "university", "fuel", "parking",
+      "supermarket", "marketplace", "post_office"
+    ]
+  },
+  {
+    "key": "shop",
+    "label": "Comercios",
+    "values": [
+      "supermarket", "convenience", "bakery", "butcher",
+      "clothes", "shoes", "electronics", "hardware",
+      "furniture", "books", "florist", "jewelry",
+      "optician", "sports", "toys", "car"
+    ]
+  },
+  {
+    "key": "tourism",
+    "label": "Turismo",
+    "values": [
+      "hotel", "hostel", "guest_house", "motel",
+      "museum", "attraction", "information", "gallery"
+    ]
+  },
+  {
+    "key": "leisure",
+    "label": "Ocio",
+    "values": [
+      "fitness_centre", "sports_centre", "swimming_pool",
+      "park", "playground", "cinema", "theatre"
+    ]
+  },
+  {
+    "key": "office",
+    "label": "Oficinas",
+    "values": [
+      "company", "government", "lawyer", "accountant",
+      "insurance", "real_estate", "travel_agent"
+    ]
+  }
+]
